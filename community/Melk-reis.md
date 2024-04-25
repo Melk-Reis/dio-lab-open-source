@@ -26,7 +26,3 @@ Meu nome é Melk, gosto de eletrônica, elétrica e programação. Atualmente no
 ## Minhas contribuições
 
 - Participação ativa no bootcamp "Python AI backend Developer" na DIO (Digital Innovation One).
-
-
-
-
